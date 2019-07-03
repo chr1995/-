@@ -71,5 +71,15 @@
 		<artifactId>aspectjweaver</artifactId>
 		<version>1.8.9</version>
 	</dependency>
+	<dependency>
+		<groupId>javax.servlet</groupId>
+		<artifactId>javax.servlet-api</artifactId>
+		<version>3.1.0</version>
+	</dependency>
+	<dependency>
+		<groupId>com.sun.jersey</groupId>
+		<artifactId>jersey-servlet</artifactId>
+		<version>1.19.1</version>
+	</dependency>
   </dependencies>
 </project>
